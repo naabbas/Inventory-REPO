@@ -1,0 +1,1 @@
+start "Anaconda Prompt.lnk" py IMS_MAIN.py
